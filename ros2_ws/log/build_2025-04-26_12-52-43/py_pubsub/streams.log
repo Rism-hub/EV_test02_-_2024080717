@@ -1,0 +1,28 @@
+[0.955s] Invoking command in '/home/rism/ros2_ws/src/py_pubsub': PYTHONPATH=/home/rism/ros2_ws/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rism/ros2_ws/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/rism/ros2_ws/build/py_pubsub/build install --record /home/rism/ros2_ws/build/py_pubsub/install.log --install-scripts $base/lib/py_pubsub --single-version-externally-managed install_data
+[1.268s] running egg_info
+[1.268s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[1.269s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[1.270s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[1.270s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[1.270s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[1.316s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.318s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[1.318s] running build
+[1.318s] running build_py
+[1.318s] copying py_pubsub/publisher_member_function.py -> /home/rism/ros2_ws/build/py_pubsub/build/lib/py_pubsub
+[1.319s] copying py_pubsub/subscriber_member_function.py -> /home/rism/ros2_ws/build/py_pubsub/build/lib/py_pubsub
+[1.319s] running install
+[1.321s] running install_lib
+[1.321s] copying /home/rism/ros2_ws/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/rism/ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[1.321s] copying /home/rism/ros2_ws/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /home/rism/ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub
+[1.322s] byte-compiling /home/rism/ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+[1.324s] byte-compiling /home/rism/ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-38.pyc
+[1.326s] running install_data
+[1.326s] running install_egg_info
+[1.327s] removing '/home/rism/ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info' (and everything under it)
+[1.327s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/rism/ros2_ws/install/py_pubsub/lib/python3.8/site-packages/py_pubsub-0.0.0-py3.8.egg-info
+[1.330s] running install_scripts
+[1.352s] Installing listener script to /home/rism/ros2_ws/install/py_pubsub/lib/py_pubsub
+[1.352s] Installing talker script to /home/rism/ros2_ws/install/py_pubsub/lib/py_pubsub
+[1.353s] writing list of installed files to '/home/rism/ros2_ws/build/py_pubsub/install.log'
+[1.378s] Invoked command in '/home/rism/ros2_ws/src/py_pubsub' returned '0': PYTHONPATH=/home/rism/ros2_ws/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rism/ros2_ws/install/py_pubsub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/rism/ros2_ws/build/py_pubsub/build install --record /home/rism/ros2_ws/build/py_pubsub/install.log --install-scripts $base/lib/py_pubsub --single-version-externally-managed install_data
